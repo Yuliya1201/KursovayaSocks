@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Носки",
+    "color": [
+      {
+        "name": "Красный",
+        "size": "35-36,37-38,39-40,41-42",
+        "cottonPart": 20,
+        "cottonPartMeasureUnit": "%",
+        "quantity": 150
+      },
+      {
+        "name": "Черный",
+        "size": "35-36,37-38,39-40,41-42",
+        "cottonPart": 30,
+        "cottonPartMeasureUnit": "%",
+        "quantity": 200
+      },
+      {
+        "name": "Темно синий",
+        "size": "35-36,37-38,39-40,41-42",
+        "cottonPart": 15,
+        "cottonPartMeasureUnit": "%",
+        "quantity": 500
+      },
+      {
+        "name": "Бежевый",
+        "size": "35-36,37-38,39-40,41-42",
+        "cottonPart": 35,
+        "cottonPartMeasureUnit": "%",
+        "quantity": 400
+      },
+      {
+        "name": "Белый",
+        "size": "35-36,37-38,39-40,41-42",
+        "cottonPart": 100,
+        "cottonPartMeasureUnit": "%",
+        "quantity": 100
+      },
+      {
+        "name": "Коричневый",
+        "size": "35-36,37-38,39-40,41-42",
+        "cottonPart": 85,
+        "cottonPartMeasureUnit": "%",
+        "quantity": 300
+      }
+    ]
+  }
+]
